@@ -132,7 +132,7 @@
   <div class="header">
     <div class="photo">
       <!-- Ganti foto.jpg dengan foto kamu -->
-      <img src="IMG_20250507_134840.jpg">
+      <img src="dndi.jfif">
     </div>
     <div>
       <h1>ALFIN RAMADHAN</h1>
